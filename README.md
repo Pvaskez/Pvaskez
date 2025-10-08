@@ -62,9 +62,9 @@ I'm passionate about pushing the boundaries of genomics, gene discovery, and mol
 
 ## 📫 Connect with Me
 
-- [LinkedIn](#) <!-- Add your link here -->
-- [Personal Website](#) <!-- Add your link here -->
-- [Email](mailto:your-email@example.com) <!-- Add your email if desired -->
+- [LinkedIn](#) www.linkedin.com/in/priscilla-vaskez-726861355
+
+- [Email](mailto:your-email@example.com) priscillavaskez@gmail.com
 
 ---
 
