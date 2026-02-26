@@ -6,25 +6,27 @@
 
 ## 👨‍🔬 About Me
 
-I'm a graduate student at [UC Berkeley](https://www.berkeley.edu/), pursuing an M.S. in Molecular Science and Software Engineering. My journey began with a B.S. in Bioinformatics from [California State University, San Bernardino](https://www.csusb.edu/), where I discovered my passion for genomics and computational biology.
+I’m a graduate student at UC Berkeley in the M.S. in Molecular Science and Software Engineering program. I previously earned a B.S. in Bioinformatics from California State University, San Bernardino.
 
-I believe bioinformatics is the future of science—bridging molecular research and software to solve some of the world’s most complex biological problems. I'm driven by curiosity and a desire to make meaningful contributions to the fields of genomics, molecular data analysis, and gene discovery.
+I’m interested in computational genomics and biological data analysis, and I’m working toward a career applying software and data science methods to molecular research.
+
+My projects focus on learning how to analyze genomic and molecular datasets using programming — including sequence analysis, genome assembly workflows, and computational approaches to gene identification. This GitHub is where I document what I’m building and learning as I develop those skills.
 
 ---
 
 ## 🧬 Featured Project: Genome Retrieval & BLAST Bash Script
 
-One of my favorite projects, developed with my mentor in the Heras Lab, automates genome database creation, BLAST searches, filtering results, and retrieving specific gene sequences—all in one bash script.
+This project was developed as part of research work in the Heras Lab. The script automates genome database creation, BLAST searches, filtering results, and retrieval of specific gene sequences from assembled genomes.
 
-```bash
-# (See full script in my repositories)
-#!/bin/bash
-# ... [script snippet or link to repo]
-```
+I contributed to implementing, modifying, and testing the workflow and documenting the pipeline as I learned to work with genomic data and command-line bioinformatics tools.
 
-- **Tech:** Bash, BLAST+, makeblastdb, awk, blastdbcmd
-- **Purpose:** Rapid identification and extraction of gene sequences from large genome datasets.
-- **Impact:** Used for comparative genomics research, especially within the Stichaeidae family.
+Technologies: Bash, BLAST+, makeblastdb, awk, blastdbcmd
+
+Purpose: Identification and extraction of gene sequences from large genome assemblies
+
+Application: Comparative genomics work on prickleback fishes (family Stichaeidae)
+
+(Full code available in the repository.)
 
 ---
 
