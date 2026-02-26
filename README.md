@@ -1,6 +1,6 @@
 # Hi, I'm Pvaskez 👋
 
-**Graduate Student | Molecular Science & Software Engineering | Bioinformatics Enthusiast**
+**Graduate Student | Molecular Science & Software Engineering | Bioinformatics**
 
 ---
 
