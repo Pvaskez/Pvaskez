@@ -6,7 +6,7 @@
 
 ## 👨‍🔬 About Me
 
-I’m a graduate student at UC Berkeley in the M.S. in Molecular Science and Software Engineering program. I previously earned a B.S. in Bioinformatics from California State University, San Bernardino.
+I’m a graduate student at UC Berkeley in the M.S. in Molecular Science and Software Engineering program. I graduated with a B.S. in Bioinformatics from California State University, San Bernardino.
 
 I’m interested in computational genomics and biological data analysis, and I’m working toward a career applying software and data science methods to molecular research.
 
